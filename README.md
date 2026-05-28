@@ -36,6 +36,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pr" alt="premiere" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
 </p>
 
 <h3 align="center">🔧 Hardware & Mobile</h3>
