@@ -13,6 +13,9 @@
   <a href="https://youtube.com/@Loisy_uwu">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://b23.tv/hljx46r">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
 </p>
 
 ---
